@@ -64,3 +64,13 @@
             display: block;
         }
 }
+.opcoes{
+    display: flex;
+}
+.opcoes__item{
+    padding: 0 1em;
+}
+.opcoes__link{
+    text-decoration: none;
+    color: black;
+}
